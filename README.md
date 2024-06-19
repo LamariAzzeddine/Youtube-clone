@@ -1,5 +1,5 @@
 # Youtube-clone
-Ce projet est un clone de Youtube, développé en utilisant uniquement HTML CSS et JavaScript. Il reproduit l'apparence et la disposition du site Youtube, permettant de mieux comprendre et pratiquer les compétences en conception de sites web.
+Ce projet est un clone de Youtube, développé en utilisant uniquement HTML et CSS. Il reproduit l'apparence et la disposition de Youtube, permettant de mieux comprendre et pratiquer les compétences en conception de sites web.
 
 # Technologies utilisées
 HTML5 : Pour la structure et le contenu du site.  
