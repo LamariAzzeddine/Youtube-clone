@@ -10,7 +10,7 @@ Clonez ce repository : git clone https://github.com/LamariAzzeddine/Youtube-clon
 Ouvrez le fichier home.html dans votre navigateur pour voir le site en action.  
 
 <img src="Youtube clone/Screenshot/Interface 1.png" alt="Screenshot" style="display: block; margin: 0 auto; zoom: 50%;" />
-<img src="Youtube clone/Screenshot/Interface 1.png" alt="Screenshot" style="display: block; margin: 0 auto; zoom: 50%;" />
+<img src="Youtube clone/Screenshot/Interface 2.png" alt="Screenshot" style="display: block; margin: 0 auto; zoom: 50%;" />
 
 
 # Contribuer
